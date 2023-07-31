@@ -25,7 +25,7 @@ I mostly design logos for others, mostly
 * Classes préparatoires aux grandes écoles ([what is it?](https://en.wikipedia.org/wiki/Classe_préparatoire_aux_grandes_écoles#Scientific_CPGE)) section MPSI then MP* at the Lycée Charlemagne
 
 ### Internships
-* Internship at the <img src="https://isss.sciencesconf.org/data/pages/logo_cea.png" alt="avatar" height="15px"/> [CEA](https://www.cea.fr) in 2017
+* Internship at the <img src="https://isss.sciencesconf.org/data/pages/logo_cea.png" alt="avatar" height="15px"/> [CEA](https://www.cea.fr) in 2017, in the CEA LIST department, a computer science lab
 
 ## About my fav languages:
 
