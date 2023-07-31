@@ -18,6 +18,15 @@ I mostly design logos for others, mostly
 * <img src="https://github.com/Red-Rapious.png" alt="avatar" height="15px"/>  [Red-Rapious](https://github.com/Red-Rapious), for his [Elements-LaTeX](https://github.com/Red-Rapious/Elements-LaTeX) project
 * <img src="https://avatars.githubusercontent.com/u/242843?v=4" alt="avatar" height="15px"/>  [CourvilleSoftware](https://github.com/courville), for the [NOVA video player app](https://github.com/nova-video-player/aos-AVP)
 
+## Education etc.
+
+### Education
+* Primary, middle and high school at <img src="https://www.ecole-alsacienne.org/wp-content/uploads/sites/18/2019/01/logo-ea-couleur-2.png" alt="avatar" height="15px"/>  [l'École Alsacienne](https://www.ecole-alsacienne.org/)
+* Classes préparatoires aux grandes écoles ([what is it?](https://en.wikipedia.org/wiki/Classe_préparatoire_aux_grandes_écoles#Scientific_CPGE)) at the Lycée Charlemagne
+
+### Internships
+* Internship at the <img src="https://isss.sciencesconf.org/data/pages/logo_cea.png" alt="avatar" height="15px"/> [CEA](https://www.cea.fr) in 2017
+
 ## About my fav languages:
 
 #### I learnt in school:
