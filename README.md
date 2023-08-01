@@ -29,6 +29,8 @@ I mostly design logos for others, mostly
 
 ## About my fav languages:
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marilabs&layout=compact)
+
 #### I learnt in school:
 <a href="https://github.com/marilabs"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://github.com/marilabs"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
