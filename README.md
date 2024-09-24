@@ -1,6 +1,6 @@
 # Hi everyone!
 
-I am Marilou, a student doing mostly mathematics and computer science from France 🇫🇷
+I am Marilou, a Centralienne student doing mostly mathematics and computer science from France 🇫🇷
 
 ## My school projects:
 
@@ -23,6 +23,7 @@ I mostly design logos for others, mostly
 ### Education
 * Primary, middle and high school at <img src="https://www.ecole-alsacienne.org/wp-content/uploads/sites/18/2019/01/logo-ea-couleur-2.png" alt="avatar" height="15px"/>  [l'École Alsacienne](https://www.ecole-alsacienne.org/)
 * Classes préparatoires aux grandes écoles ([what is it?](https://en.wikipedia.org/wiki/Classe_préparatoire_aux_grandes_écoles#Scientific_CPGE)) section MPSI then MP* at the Lycée Charlemagne
+* Grande école d'ingénieur at <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Logo_CentraleSupélec.svg/2560px-Logo_CentraleSupélec.svg.png" alt="avatar" height="15px"/>  [CentraleSupélec](https://www.centralesupelec.fr), where I study mathematics and computer science
 
 ### Internships
 * Internship at the <img src="https://isss.sciencesconf.org/data/pages/logo_cea.png" alt="avatar" height="15px"/> [CEA](https://www.cea.fr) in 2017, in the CEA LIST department, a computer science lab
