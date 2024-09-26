@@ -2,6 +2,18 @@
 
 I am Marilou, a Centralienne student doing mostly mathematics and computer science from France 🇫🇷
 
+#### You can check out my Exercism profile:
+<a href="https://exercism.org/profiles/marilabs"><img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white"></a>
+
+#### And my root.me profile:
+[Right here](https://www.root-me.org/hackrilou?lang=fr#c04d771eba1d148491c3688eb9736ad2)
+
+#### Connect on LinkedIn
+
+<a href="https://www.linkedin.com/in/marilou-de-courville-72195a321/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+
+
 ## My school projects:
 
 * [My TIPE for the year 2024](https://github.com/marilabs/tipe-2024), a school project made during my years in prépa at the lycée Charlemagne (🐍, 🦀)
@@ -36,6 +48,7 @@ I mostly design logos for others, mostly
 <a href="https://github.com/marilabs"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://github.com/marilabs"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
 <a href="https://github.com/marilabs"><img src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white"></a>
+<a href="https://github.com/marilabs"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
 
 
 #### I am new to and experimenting with: 
@@ -44,5 +57,3 @@ I mostly design logos for others, mostly
 <a href="https://github.com/marilabs"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"></a>
 <a href="https://github.com/marilabs"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 
-#### You can check out my Exercism profile:
-<a href="https://exercism.org/profiles/marilabs"><img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white"></a>
