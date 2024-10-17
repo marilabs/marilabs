@@ -13,7 +13,6 @@ I am Marilou, a Centralienne student doing mostly mathematics and computer scien
 <a href="https://www.linkedin.com/in/marilou-de-courville-72195a321/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
-
 ## My school projects:
 
 * [My TIPE for the year 2024](https://github.com/marilabs/tipe-2024), a school project made during my years in prépa at the lycée Charlemagne (🐍, 🦀)
@@ -23,6 +22,7 @@ I am Marilou, a Centralienne student doing mostly mathematics and computer scien
 
 * [Trying to get better in CS!](https://github.com/marilabs/training-algo), some problems from various sources to practice famous algorthims or data structures
 * quantum-tasks, a task manager (that remains private for now)
+* My work for <img src="https://automatants.cs-campus.fr/images/logo_mini.png" alt="avatar" height="15px"/>  [Automatants](https://automatants.cs-campus.fr), the AI association at CentraleSupélec
 
 ## What I do with others:
 
