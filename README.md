@@ -13,6 +13,9 @@ I am Marilou, a Centralienne student doing mostly mathematics and computer scien
 <a href="https://www.linkedin.com/in/marilou-de-courville-72195a321/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
+## Personal projects:
+* [Is it sexist](https://github.com/marilabs/is-it-sexist), BERT for Sexist Text Classification
+
 ## My school projects:
 
 * [My TIPE for the year 2024](https://github.com/marilabs/tipe-2024), a school project made during my years in prépa at the lycée Charlemagne (🐍, 🦀)
